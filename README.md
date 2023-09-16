@@ -1,3 +1,4 @@
 # Ishita-demo
-My first Git repo
+My first Git repository.
+<br>
 Author - Ishita Shewade
